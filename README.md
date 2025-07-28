@@ -63,6 +63,4 @@ Jupyter Notebook for development
 
 GitHub for version control and collaboration
 
-📬 Contact
-For questions, suggestions, or collaboration opportunities, feel free to open an issue or contact me!
-By using My Mail divyaprasathd@gmail.com  
+
